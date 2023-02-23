@@ -1,16 +1,15 @@
-### Hi there 👋
+# Resultados electorales 
 
-<!--
-**shirleyVinces/shirleyvinces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Imágenes de los candidatos
+### Aquiles Alvarez
+![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
+### Cinthia Viteri
+*![Cinthia Viteri](/ruta/a/la/imagen.jpg)
 
-Here are some ideas to get you started:
+## Resultados 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tablas 
+| Candidato | Votos   |
+| ------- | -------- |
+| Aquiles Alvarez  | 551, 996   |
+| Cinthia Viteri   | 420, 208   |
